@@ -1,0 +1,44 @@
+<h1  align="center">
+ Workshop
+</h1>
+
+
+## 💻 Projeto Workshop
+
+O projeto e um site de captura de 
+**Email** de possiveis clientes.
+
+
+
+<h1 align="center">
+    <img alt="Booster" title="Booster" src="././public/images/workshop.png" width="500px" />
+</h1>
+
+## Tecnologias
+
+Este projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JAVASCRIPT
+- MAILCHIMP
+
+
+## Como Executar
+Para clonar e executar este site,
+execute os seguintes comando.
+
+1. Faça um clone do repositório:
+
+```sh
+  $ git clone https://github.com/Djaysson/workshop.git
+```
+2. Executando a Aplicação:
+
+```sh
+# Site web
+  $ cd workshop
+  # abra o arquivo index.html
+  $ click no index.html
+
+```
