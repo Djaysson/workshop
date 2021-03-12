@@ -5,8 +5,8 @@
 
 ## 💻 Projeto Workshop
 
-O projeto e um site de captura de 
-**Email** de possiveis clientes.
+O projeto é um site de captura de
+**Email** de possíveis clientes.
 
 
 
@@ -36,7 +36,7 @@ execute os seguintes comando.
 2. Executando a Aplicação:
 
 ```sh
-# Site web
+# Abra a pasta
   $ cd workshop
   # abra o arquivo index.html
   $ click no index.html
