@@ -5,7 +5,7 @@
 body{
   font-family: Arial, Helvetica, sans-serif;
   background-color:#F0F8FF;
-  background-image: url('../../public/images/background.jpg');
+  background-image: url('../images/background.jpg');
   background-repeat: no-repeat;
  background-size: cover
 }
@@ -24,7 +24,7 @@ font-size: 26px;
 }
 section{
   padding: 20px;
-  background-image: url('../../public/images/people.jpg');
+  background-image: url('../images/people.jpg');
   background-size: cover;
   overflow: hidden;
 }
@@ -58,7 +58,7 @@ select{
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
-  background-image: url('../../public/images/arrow.jpg');
+  background-image: url('../images/arrow.jpg');
   background-repeat: no-repeat;
   background-position:calc(100% - 10px) center;
  
