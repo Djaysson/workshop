@@ -11,7 +11,7 @@ O projeto é um site de captura de
 
 
 <h1 align="center">
-    <img alt="Booster" title="Booster" src="././public/images/workshop.png" width="500px" />
+    <img alt="Booster" title="Booster" src="./images/workshop.png" width="500px" />
 </h1>
 
 ## Tecnologias
@@ -20,7 +20,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-- JAVASCRIPT
 - MAILCHIMP
 
 
